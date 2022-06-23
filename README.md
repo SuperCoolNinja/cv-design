@@ -3,7 +3,7 @@ I made this cv that i saw in dribble from scratch using html css.
 
 
 ## Visual
-![Visual](https://cdn.discordapp.com/attachments/700050943995281452/984143369569718302/unknown.png)
+![Visual](https://cdn.discordapp.com/attachments/926825487815278622/989453339785850910/unknown.png)
 
 ## Original from dribble :
 
