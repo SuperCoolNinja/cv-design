@@ -174,8 +174,7 @@ body {
 
 #article-experience {
   flex-basis: 16rem;
-  /* margin-top: -6.7rem; */
-  height: 6rem;
+  height: auto;
 }
 
 #section-two {
